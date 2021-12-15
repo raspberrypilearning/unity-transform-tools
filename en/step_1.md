@@ -9,7 +9,7 @@ You can click on a tool to start using it, or use a keyboard shortcut:
 ![The move, rotate and scale tool icons.](images/transform-move.png)
 + E, Rotate – Rotate a game object. Drag the coloured circles to rotate in x, y, z directions.
 ![The move, rotate and scale tool icons.](images/transform-rotate.png)
-+ R, Scale – Resize a game object. Drag the coloured arrows to resize an object in x, y, z directions.
++ R, Scale – Resize a game object. Drag the coloured cubes to resize an object in x, y, z directions.
 ![The move, rotate and scale tool icons.](images/transform-scale.png)
 + T, Rect – Change a 2D object such as text.
 
