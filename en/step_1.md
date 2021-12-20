@@ -6,11 +6,11 @@ You can click on a tool to start using it, or use a keyboard shortcut:
 
 + Q, Hand – Pan around.
 + W, Translate – Move a game object. Drag the coloured arrows to move in x, y, z directions.
-![The move, rotate and scale tool icons.](images/transform-move.png)
+![The Scene view showing 'Move' coloured arrow handles on a wall GameObject.](images/transform-move.png)
 + E, Rotate – Rotate a game object. Drag the coloured circles to rotate in x, y, z directions.
-![The move, rotate and scale tool icons.](images/transform-rotate.png)
+![The Scene view showing 'Rotate' coloured circles on a wall GameObject.](images/transform-rotate.png)
 + R, Scale – Resize a game object. Drag the coloured cubes to resize an object in x, y, z directions.
-![The move, rotate and scale tool icons.](images/transform-scale.png)
+![The Scene view showing 'Resize' coloured cube handles on a wall GameObject.](images/transform-scale.png)
 + T, Rect – Change a 2D object such as text.
 
 You can also change values in the Transform window of a Game object in the Inspector. 
