@@ -5,9 +5,9 @@ Met de Transform-tools kun je in de Scèneweergave door de 3D-ruimte bewegen en 
 Je kunt op een gereedschap klikken om het te gebruiken, of een sneltoets gebruiken:
 
 + Q, hand – Opzij bewegen.
-+ W, Translate – verplaats een spelobject. Sleep de gekleurde pijlen om in de richtingen x, y, z te bewegen. ![De pictogrammen van het gereedschap verplaatsen, draaien en schalen.](images/transform-move.png)
-+ E, Roteren – Draai een spelobject. Sleep de gekleurde cirkels om te draaien in x-, y-, z-richting. ![De pictogrammen van het gereedschap verplaatsen, draaien en schalen.](images/transform-rotate.png)
-+ R, schaal – Wijzig de grootte van een spelobject. Sleep de gekleurde kubussen om het formaat van een object in de richtingen x, y, z aan te passen. ![De pictogrammen van het gereedschap verplaatsen, draaien en schalen.](images/transform-scale.png)
++ W, Translate – verplaats een spelobject. Sleep de gekleurde pijlen om in de richtingen x, y, z te bewegen. ![The Scene view showing 'Move' coloured arrow handles on a wall GameObject.](images/transform-move.png)
++ E, Roteren – Draai een spelobject. Sleep de gekleurde cirkels om te draaien in x-, y-, z-richting. ![The Scene view showing 'Rotate' coloured circles on a wall GameObject.](images/transform-rotate.png)
++ R, schaal – Wijzig de grootte van een spelobject. Sleep de gekleurde kubussen om het formaat van een object in de richtingen x, y, z aan te passen. ![The Scene view showing 'Resize' coloured cube handles on a wall GameObject.](images/transform-scale.png)
 + T, Rect – Wijzig een 2D-object zoals tekst.
 
 Je kunt ook waarden wijzigen in het Transform-venster van een Game-object in de Inspector.
