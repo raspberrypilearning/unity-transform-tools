@@ -1,0 +1,11 @@
+---
+title: Outils de transformation
+hero_image: images/banner.png
+description: Utiliser les outils de transformation d'Unity pour positionner, faire pivoter et mettre à l'échelle les objets de jeu "GameObjects".
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-11-17"
+steps:
+  - title: Outils de transformation
+
