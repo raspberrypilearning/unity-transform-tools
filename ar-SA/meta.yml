@@ -1,12 +1,12 @@
 ---
-title: Transform tools
+title: أدوات التحويل
 hero_image: images/banner.png
-description: Use the Unity Transform tools to position, rotate, and scale GameObjects
+description: استخدم أدوات التحويل في Unity لتعديل موضع و تدوير و تغيير حجم كائنات اللعبة (GameObjects).
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-11-17"
 steps:
   - 
-    title: Transform tools
+    title: أدوات التحويل
 
