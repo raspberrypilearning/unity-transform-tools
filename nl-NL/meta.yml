@@ -1,12 +1,12 @@
 ---
-title: Transform tools
+title: Transform-tools
 hero_image: images/banner.png
-description: Use the Unity Transform tools to position, rotate, and scale GameObjects
+description: Gebruik de Unity Transform-tools om GameObjects te verplaatsen, draaien en schalen
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-11-17"
 steps:
   - 
-    title: Transform tools
+    title: Transform-tools
 
