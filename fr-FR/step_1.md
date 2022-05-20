@@ -1,19 +1,19 @@
-The Transform tools allow you to move around in 3D space in the Scene view and move, rotate, and scale your game objects.
+Les outils de transformation te permettent de te déplacer dans l'espace 3D dans la vue Scene et de déplacer, faire pivoter et mettre à l'échelle tes GameObjects.
 
-![The move, rotate and scale tool icons.](images/transform-tools.png)
+![Les icônes des outils de déplacement, de rotation et de mise à l'échelle.](images/transform-tools.png)
 
-You can click on a tool to start using it, or use a keyboard shortcut:
+Tu peux cliquer sur un outil pour commencer à l'utiliser, ou utiliser un raccourci clavier:
 
-+ Q, Hand – Pan around.
-+ W, Translate – Move a game object. Drag the coloured arrows to move in x, y, z directions. ![The move, rotate and scale tool icons.](images/transform-move.png)
-+ E, Rotate – Rotate a game object. Drag the coloured circles to rotate in x, y, z directions. ![The move, rotate and scale tool icons.](images/transform-rotate.png)
-+ R, Scale – Resize a game object. Drag the coloured cubes to resize an object in x, y, z directions. ![The move, rotate and scale tool icons.](images/transform-scale.png)
-+ T, Rect – Change a 2D object such as text.
++ Q, Main - Panoramique.
++ W, Translate - Déplacer un objet du jeu. Fais glisser les flèches colorées pour te déplacer dans les directions x, y, z. ![Les icônes des outils de déplacement, de rotation et de mise à l'échelle.](images/transform-move.png)
++ E, Rotation – Faire pivoter un objet de jeu. Fais glisser les cercles colorés pour les faire pivoter dans les directions x, y, z. ![Les icônes des outils de déplacement, de rotation et de mise à l'échelle.](images/transform-rotate.png)
++ R, Scale - Redimensionner un objet du jeu. Fais glisser les cubes colorés pour redimensionner un objet dans les directions x, y, z. ![Les icônes de déplacement, de rotation et de mise à l'échelle.](images/transform-scale.png)
++ T, Rect - Modifier un objet 2D tel que du texte.
 
-You can also change values in the Transform window of a Game object in the Inspector.
+Tu peux également modifier les valeurs dans la fenêtre Transform d'un GameObject dans l'Inspector.
 
-![The transform component in the Inspector window showing X, Y, and Z properties for position, rotation and scale.](images/transform-component.png)
+![Le composant Transform dans la fenêtre Inspector affichant les propriétés X, Y et Z pour la position, la rotation et l'échelle.](images/transform-component.png)
 
-**Tip:** Sometimes it's easier to drag an object to roughly the right place using the Transform tools and then adjust the values to round numbers in the Transform for accurate positioning.
+**Astuce :** Parfois, il est plus facile de faire glisser un objet à peu près au bon endroit à l'aide des outils de transformation, puis d'ajuster les valeurs aux nombres arrondis dans la transformation pour un positionnement précis.
 
-**Tip:** The directions are coloured-coded in the Scene view: x is red, y is green (up and down), and z is blue. 
+**Astuce :** Les directions sont codées par couleur dans la vue Scene : x est rouge, y est vert (haut et bas) et z est bleu. 
