@@ -5,9 +5,9 @@
 يمكنك النقر فوق أداة لبدء استخدامها، أو استخدام اختصار لوحة المفاتيح:
 
 + Q، يد - التجول.
-+ W ، ترجمة - تحريك كائن لعبة. اسحب الأسهم الملونة للتحرك في الاتجاهات x و y و z. ![أيقونات أداة التحريك, التدوير والتحجيم.](images/transform-move.png)
-+ R, المقياس - تغير حجم كائن اللعبة. اسحب الدوائر الملونة للدوران في الاتجاهات x و y و z. ![أيقونات أداة التحريك, التدوير والتحجيم.](images/transform-rotate.png)
-+ R, تحجيم - تحجيم شيء لعبة. اسحب المكعبات الملونة لتغير حجم كائن في الاتجاهات x و y و z. ![أيقونات أداة التحريك, التدوير والتحجيم.](images/transform-scale.png)
++ W ، ترجمة - تحريك كائن لعبة. اسحب الأسهم الملونة للتحرك في الاتجاهات x و y و z. ![The Scene view showing 'Move' coloured arrow handles on a wall GameObject.](images/transform-move.png)
++ R, المقياس - تغير حجم كائن اللعبة. اسحب الدوائر الملونة للدوران في الاتجاهات x و y و z. ![The Scene view showing 'Rotate' coloured circles on a wall GameObject.](images/transform-rotate.png)
++ R, تحجيم - تحجيم شيء لعبة. اسحب المكعبات الملونة لتغير حجم كائن في الاتجاهات x و y و z. ![The Scene view showing 'Resize' coloured cube handles on a wall GameObject.](images/transform-scale.png)
 + T ، Rect - تغيير كائن ثنائي الأبعاد مثل النص.
 
 يمكنك أيضا تغيير القيم في نافذة التحويل لكائن اللعبة في المفتش.
