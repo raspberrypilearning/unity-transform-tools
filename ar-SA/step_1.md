@@ -1,19 +1,19 @@
-The Transform tools allow you to move around in 3D space in the Scene view and move, rotate, and scale your game objects.
+تتيح لك أدوات التحويل التنقل في مساحة ثلاثية الأبعاد في عرض المشهد وتحريك كائنات اللعبة وتدويرها وتوسيع نطاقها.
 
-![The move, rotate and scale tool icons.](images/transform-tools.png)
+![أيقونات أداة النقل والتدوير والقياس.](images/transform-tools.png)
 
-You can click on a tool to start using it, or use a keyboard shortcut:
+يمكنك النقر فوق أداة لبدء استخدامها، أو استخدام اختصار لوحة المفاتيح:
 
-+ Q, Hand – Pan around.
-+ W, Translate – Move a game object. Drag the coloured arrows to move in x, y, z directions. ![The move, rotate and scale tool icons.](images/transform-move.png)
-+ E, Rotate – Rotate a game object. Drag the coloured circles to rotate in x, y, z directions. ![The move, rotate and scale tool icons.](images/transform-rotate.png)
-+ R, Scale – Resize a game object. Drag the coloured cubes to resize an object in x, y, z directions. ![The move, rotate and scale tool icons.](images/transform-scale.png)
-+ T, Rect – Change a 2D object such as text.
++ Q، يد - التجول.
++ W ، ترجمة - تحريك كائن لعبة. اسحب الأسهم الملونة للتحرك في الاتجاهات x و y و z. ![أيقونات أداة التحريك, التدوير والتحجيم.](images/transform-move.png)
++ R, المقياس - تغير حجم كائن اللعبة. اسحب الدوائر الملونة للدوران في الاتجاهات x و y و z. ![أيقونات أداة التحريك, التدوير والتحجيم.](images/transform-rotate.png)
++ R, تحجيم - تحجيم شيء لعبة. اسحب المكعبات الملونة لتغير حجم كائن في الاتجاهات x و y و z. ![أيقونات أداة التحريك, التدوير والتحجيم.](images/transform-scale.png)
++ T ، Rect - تغيير كائن ثنائي الأبعاد مثل النص.
 
-You can also change values in the Transform window of a Game object in the Inspector.
+يمكنك أيضا تغيير القيم في نافذة التحويل لكائن اللعبة في المفتش.
 
-![The transform component in the Inspector window showing X, Y, and Z properties for position, rotation and scale.](images/transform-component.png)
+![يُظهر مكون التحويل في نافذة المفتش خصائص X و Y و Z للموضع والدوران والمقياس.](images/transform-component.png)
 
-**Tip:** Sometimes it's easier to drag an object to roughly the right place using the Transform tools and then adjust the values to round numbers in the Transform for accurate positioning.
+**نصيحة:** في بعض الأحيان يكون من الأسهل سحب كائن إلى المكان المناسب تقريبًا باستخدام أدوات التحويل ثم اضبط القيم لتقريب الأرقام في التحويل من أجل تحديد الموضع بدقة.
 
-**Tip:** The directions are coloured-coded in the Scene view: x is red, y is green (up and down), and z is blue. 
+**نصيحة:** يتم تلوين الاتجاهات بالرموز في عرض المشهد: x باللون الأحمر ، و y باللون الأخضر (لأعلى ولأسفل) ، و z باللون الأزرق. 
