@@ -1,19 +1,19 @@
-The Transform tools allow you to move around in 3D space in the Scene view and move, rotate, and scale your game objects.
+Met de Transform-tools kun je in de Scèneweergave door de 3D-ruimte bewegen en je spelobjecten verplaatsen, draaien en schalen.
 
-![The move, rotate and scale tool icons.](images/transform-tools.png)
+![De pictogrammen van het gereedschap verplaatsen, draaien en schalen.](images/transform-tools.png)
 
-You can click on a tool to start using it, or use a keyboard shortcut:
+Je kunt op een gereedschap klikken om het te gebruiken, of een sneltoets gebruiken:
 
-+ Q, Hand – Pan around.
-+ W, Translate – Move a game object. Drag the coloured arrows to move in x, y, z directions. ![The move, rotate and scale tool icons.](images/transform-move.png)
-+ E, Rotate – Rotate a game object. Drag the coloured circles to rotate in x, y, z directions. ![The move, rotate and scale tool icons.](images/transform-rotate.png)
-+ R, Scale – Resize a game object. Drag the coloured cubes to resize an object in x, y, z directions. ![The move, rotate and scale tool icons.](images/transform-scale.png)
-+ T, Rect – Change a 2D object such as text.
++ Q, hand – Opzij bewegen.
++ W, Translate – verplaats een spelobject. Sleep de gekleurde pijlen om in de richtingen x, y, z te bewegen. ![De pictogrammen van het gereedschap verplaatsen, draaien en schalen.](images/transform-move.png)
++ E, Roteren – Draai een spelobject. Sleep de gekleurde cirkels om te draaien in x-, y-, z-richting. ![De pictogrammen van het gereedschap verplaatsen, draaien en schalen.](images/transform-rotate.png)
++ R, schaal – Wijzig de grootte van een spelobject. Sleep de gekleurde kubussen om het formaat van een object in de richtingen x, y, z aan te passen. ![De pictogrammen van het gereedschap verplaatsen, draaien en schalen.](images/transform-scale.png)
++ T, Rect – Wijzig een 2D-object zoals tekst.
 
-You can also change values in the Transform window of a Game object in the Inspector.
+Je kunt ook waarden wijzigen in het Transform-venster van een Game-object in de Inspector.
 
-![The transform component in the Inspector window showing X, Y, and Z properties for position, rotation and scale.](images/transform-component.png)
+![De Transform component in het Inspector venster met X-, Y- en Z-waarden voor positie, rotatie en schaal.](images/transform-component.png)
 
-**Tip:** Sometimes it's easier to drag an object to roughly the right place using the Transform tools and then adjust the values to round numbers in the Transform for accurate positioning.
+**Tip:** soms is het makkelijker om een object naar ongeveer de juiste plaats te slepen met behulp van de Transform-tools en vervolgens de waarden aan te passen of af te ronden in de Transform voor een nauwkeurige positionering.
 
-**Tip:** The directions are coloured-coded in the Scene view: x is red, y is green (up and down), and z is blue. 
+**Tip:** de richtingen hebben altijd dezelfde kleur in de scèneweergave: X is rood, y is groen (omhoog en omlaag) en z is blauw. 
