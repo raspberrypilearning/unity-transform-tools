@@ -7,8 +7,10 @@ Tu peux cliquer sur un outil pour commencer à l'utiliser, ou utiliser un raccou
 + Q, Main - Panoramique.
 + W, Translate - Déplacer un objet du jeu. Fais glisser les flèches colorées pour te déplacer dans les directions x, y, z. 
 ![Les icônes des outils de déplacement, de rotation et de mise à l'échelle.](images/transform-move.png)
-+ E, Rotation – Faire pivoter un objet de jeu. Fais glisser les cercles colorés pour les faire pivoter dans les directions x, y, z. ![Les icônes des outils de déplacement, de rotation et de mise à l'échelle.](images/transform-rotate.png)
-+ R, Scale - Redimensionner un objet du jeu. Fais glisser les cubes colorés pour redimensionner un objet dans les directions x, y, z. ![Les icônes de déplacement, de rotation et de mise à l'échelle.](images/transform-scale.png)
++ E, Rotation – Faire pivoter un objet de jeu. Fais glisser les cercles colorés pour les faire pivoter dans les directions x, y, z. 
+![Les icônes des outils de déplacement, de rotation et de mise à l'échelle.](images/transform-rotate.png)
++ R, Scale - Redimensionner un objet du jeu. Fais glisser les cubes colorés pour redimensionner un objet dans les directions x, y, z. 
+![Les icônes de déplacement, de rotation et de mise à l'échelle.](images/transform-scale.png)
 + T, Rect - Modifier un objet 2D tel que du texte.
 
 Tu peux également modifier les valeurs dans la fenêtre Transform d'un GameObject dans l'Inspector.
