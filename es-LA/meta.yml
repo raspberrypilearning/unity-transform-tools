@@ -1,0 +1,11 @@
+---
+title: Herramientas de transformación
+hero_image: images/banner.png
+description: Utiliza las herramientas Transform tools de Unity para posicionar, rotar y escalar los objetos del juego
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-11-17"
+steps:
+  - title: Herramientas de transformación
+
