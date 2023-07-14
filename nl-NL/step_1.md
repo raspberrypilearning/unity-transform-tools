@@ -6,9 +6,9 @@ Je kunt op een gereedschap klikken om het te gebruiken, of een sneltoets gebruik
 
 + Q, hand – Opzij bewegen.
 + W, Translate – verplaats een spelobject. Sleep de gekleurde pijlen om in de richtingen x, y, z te bewegen. 
-![De pictogrammen van het gereedschap verplaatsen, draaien en schalen.](images/transform-move.png)
+![De scèneweergave met 'Move' gekleurde pijlgrepen op een muur GameObject.](images/transform-move.png)
 + E, Roteren – Draai een spelobject. Sleep de gekleurde cirkels om te draaien in x-, y-, z-richting. 
-![De pictogrammen van het gereedschap verplaatsen, draaien en schalen.](images/transform-rotate.png)
+![De scèneweergave met 'Rotate' gekleurde cirkels op een muur GameObject.](images/transform-rotate.png)
 + R, schaal – Wijzig de grootte van een spelobject. Sleep de gekleurde kubussen om het formaat van een object in de richtingen x, y, z aan te passen. 
 ![De pictogrammen van het gereedschap verplaatsen, draaien en schalen.](images/transform-scale.png)
 + T, Rect – Wijzig een 2D-object zoals tekst.
